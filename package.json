@@ -18,6 +18,7 @@
   "homepage": "https://github.com/yrnjeromee/5B_Bolinas_Esercitazioni-NodeJS#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
   }
 }
